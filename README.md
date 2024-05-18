@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**'Upcoming SWE'**
+**`Code Craftsman`**
 
 I am a dedicated college student at VCU with a strong passion for app and software development. My enthusiasm lies particularly in creating innovative solutions that enhance health and fitness, reflecting my personal interest in maintaining a healthy lifestyle.
 

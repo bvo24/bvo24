@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+**'Upcoming SWE'**
+
+I am a dedicated college student at VCU with a strong passion for app and software development. My enthusiasm lies particularly in creating innovative solutions that enhance health and fitness, reflecting my personal interest in maintaining a healthy lifestyle.
+
+
+
 
 <!--
 **bvo24/bvo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

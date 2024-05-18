@@ -33,8 +33,11 @@ As I grow as a developer, I'm always eager to learn and experiment with new tech
 
 ## 📫 Let's Connect
 
-I'm always excited to connect with fellow developers and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com) or via email at [your-email@example.com](mailto:your-email@example.com).
+I'm always excited to connect with fellow developers and potential collaborators. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com)
 
+<!--  
+ or via email at [your-email@example.com](mailto:your-email@example.com).
+-->
 <p align="center">
   <a href="https://www.linkedin.com/in/brian-vo-bvo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

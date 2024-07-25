@@ -46,7 +46,7 @@ I'm always excited to connect with fellow developers and potential collaborators
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvo24&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvo2&show_icons=true&theme=radical)
 
 
 
